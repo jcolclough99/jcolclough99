@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 ## Hi, I'm Jamie👋
 
 ### I'm an aspiring data analyst.
